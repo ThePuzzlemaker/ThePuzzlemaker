@@ -11,11 +11,11 @@
 - 🤔 I’m looking for help with pretty much any of my projects
 - 💬 Ask me about Rust
 - 📫 How to reach me:
-  - [Email: `tpzker@thepuzzlemaker.info`](mailto:tpzker@thepuzzlemaker.info)
-  - [Email: `thepuzzlemaker@protonmail.com`](mailto:thepuzzlemaker@protonmail.com)
-  - [Twitter: `@BinSlashBash`](https://twitter.com/BinSlashBash)
-  - [Discord: `Paradoxical#2936`](https://dsc.bio/prdxcl)
-  - [Reddit: `/u/_thepuzzlemaker`](https://reddit.com/u/_thepuzzlemaker)
-  - [Forced into Making A Non-Personal Instagram: `@_thepuzzlemaker`](https://instagram.com/_thepuzzlemaker)
-  - [PGP Key: `ThePuzzlemaker <tpzker@thepuzlemaker.info>, 7095C20A92243DB6517707B0968CD9D71C9FBB6C`](https://thepuzzlemaker.info/public.asc)
+  - Email: [`tpzker@thepuzzlemaker.info`](mailto:tpzker@thepuzzlemaker.info)
+  - Email: [`thepuzzlemaker@protonmail.com`](mailto:thepuzzlemaker@protonmail.com)
+  - Twitter: [`@BinSlashBash`](https://twitter.com/BinSlashBash)
+  - Discord: [`Paradoxical#2936`](https://dsc.bio/prdxcl)
+  - Reddit: [`/u/_thepuzzlemaker`](https://reddit.com/u/_thepuzzlemaker)
+  - Forced into Making A Non-Personal Instagram: [`@_thepuzzlemaker`](https://instagram.com/_thepuzzlemaker)
+  - PGP Key: [`ThePuzzlemaker <tpzker@thepuzlemaker.info>` (fingerprint `7095C20A92243DB6517707B0968CD9D71C9FBB6C`)](https://thepuzzlemaker.info/public.asc)
 - 😄 Pronouns: He/Him
