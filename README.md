@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ThePuzzlemaker/ThePuzzlemaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ThePuzzlemaker's github stats](https://github-readme-stats.vercel.app/api?username=ThePuzzlemaker&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on
+  - [`curly`](https://github.com/ThePuzzlemaker/curly), a type-safe text formatting library for Rust inspired by `format!`
+  - [`VexCTF`](https://github.com/Vexillologists/VexCTF-spec), a CTF platform
+  - Lots of other stuff
+- 🌱 I’m currently learning programming language design
+- 👯 I’m looking to collaborate on [the Rust project](https://github.com/rust-lang/rust)
+- 🤔 I’m looking for help with pretty much any of my projects
+- 💬 Ask me about Rust
+- 📫 How to reach me:
+  - [`tpzker@thepuzzlemaker.info`](mailto:tpzker@thepuzzlemaker.info)
+  - [`thepuzzlemaker@protonmail.com`](mailto:thepuzzlemaker@protonmail.com)
+  - [`@BinSlashBash`](https://twitter.com/BinSlashBash)
+- 😄 Pronouns: He/Him
