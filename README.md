@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-[![ThePuzzlemaker's github stats](https://github-readme-stats.vercel.app/api?username=ThePuzzlemaker&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ThePuzzlemaker's github stats](https://github-readme-stats.vercel.app/api?username=ThePuzzlemaker&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePuzzlemaker&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on
-  - [`curly`](https://github.com/ThePuzzlemaker/curly), a type-safe text formatting library for Rust inspired by `format!`
   - [`VexCTF`](https://github.com/Vexillologists/VexCTF-spec), a CTF platform
   - Lots of other stuff
 - 🌱 I’m currently learning programming language design
-- 👯 I’m looking to collaborate on [the Rust project](https://github.com/rust-lang/rust)
 - 🤔 I’m looking for help with pretty much any of my projects
 - 💬 Ask me about Rust
 - 📫 How to reach me:
