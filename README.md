@@ -3,7 +3,7 @@
 [![ThePuzzlemaker's github stats](https://github-readme-stats.vercel.app/api?username=ThePuzzlemaker&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePuzzlemaker&exclude_repo=dotfiles,Crystalline,TritonLang&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on
-  - [`Calypso`](https://github.coom/calypso-lang/calypso), a programming language
+  - [`Calypso`](https://github.com/calypso-lang/calypso), a programming language
   - [`VexCTF`](https://github.com/Vexillologists/VexCTF-spec), a CTF platform
   - Lots of other stuff
 - 🌱 I’m currently learning programming language design
