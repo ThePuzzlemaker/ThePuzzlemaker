@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working on
   - [`Calypso`](https://github.com/calypso-lang/calypso), a programming language
-  - [`VexCTF`](https://github.com/Vexillologists/VexCTF-spec), a CTF platform
+  - [`River`](https://github.com/ThePuzzlemaker/river), a toy OS in Rust for RISC-V/QEMU
+  - [`Tethys`](https://github.com/ThePuzzlemaker/tethys), a toy language for researching typechecking
   - Lots of other stuff
 - 🌱 I’m currently learning programming language design
 - 🤔 I’m looking for help with pretty much any of my projects
@@ -12,10 +13,10 @@
 - 📫 How to reach me:
   - Email: [`tpzker@thepuzzlemaker.info`](mailto:tpzker@thepuzzlemaker.info)
   - Email: [`thepuzzlemaker@protonmail.com`](mailto:thepuzzlemaker@protonmail.com)
-  - Twitter: [`@BinSlashBash`](https://twitter.com/BinSlashBash)
+  - Twitter (deactive): [`@BinSlashBash`](https://twitter.com/BinSlashBash)
   - Discord: [`Paradoxical#2936`](https://dsc.bio/prdxcl)
   - Reddit: [`/u/_thepuzzlemaker`](https://reddit.com/u/_thepuzzlemaker)
-  - Forced into Making A Non-Personal Instagram: [`@_thepuzzlemaker`](https://instagram.com/_thepuzzlemaker)
   - Keybase: [`thepuzzlemaker`](https://keybase.io/thepuzzlemaker)
+  - Mastodon: [`@thepuzzlemaker@tech.lgbt`](https://tech.lgbt/@thepuzzlemaker)
   - PGP Key: [`ThePuzzlemaker <tpzker@thepuzlemaker.info>` (fingerprint `7095C20A92243DB6517707B0968CD9D71C9FBB6C`)](https://thepuzzlemaker.info/public.asc)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: they/them
