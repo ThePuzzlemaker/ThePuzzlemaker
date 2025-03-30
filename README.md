@@ -13,7 +13,6 @@
 - 📫 How to reach me:
   - Email: [`tpzker@thepuzzlemaker.info`](mailto:tpzker@thepuzzlemaker.info)
   - Email: [`thepuzzlemaker@protonmail.com`](mailto:thepuzzlemaker@protonmail.com)
-  - Twitter (deactive): [`@BinSlashBash`](https://twitter.com/BinSlashBash)
   - Discord: [`Paradoxical#2936`](https://dsc.bio/prdxcl)
   - Reddit: [`/u/_thepuzzlemaker`](https://reddit.com/u/_thepuzzlemaker)
   - Keybase: [`thepuzzlemaker`](https://keybase.io/thepuzzlemaker)
